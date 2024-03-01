@@ -1,0 +1,69 @@
+{
+    "allBooks": [
+        {
+          "title": "DoglaPan",
+          "author": "Ashneer Grover",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+          "reviews": "4.7",
+          "coverImage": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1670718519i/65146478.jpg"
+        },
+        {
+          "title": "Playing At My Way",
+          "author": "Sachin Temdulkar",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+          "reviews": "4.5",
+          "coverImage": "https://rukminim2.flixcart.com/image/300/400/book/7/6/2/playing-it-my-way-original-imae5zynqejwubss.jpeg?q=90&crop=false"
+        },
+        {
+          "title": "DarkHorse",
+          "author": "Nilopatal Kumar",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+          "reviews": "4.9",
+          "coverImage": "https://m.media-amazon.com/images/I/41B+bU2wILL.jpg"
+        },
+        {
+          "title": "Book Title 2",
+          "author": "Author 2",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+          "reviews": "3.9",
+          "coverImage": "https://5.imimg.com/data5/SELLER/Default/2021/11/KU/MB/DJ/49559104/b2-500x500.jpeg"
+        },
+        {
+          "title": "Book Title 2",
+          "author": "Author 2",
+          "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+          "reviews": "3.9",
+          "coverImage": "https://d1whtlypfis84e.cloudfront.net/guides/wp-content/uploads/2018/05/21035708/51QSrQDru9L._SX342_BO1204203200_-207x300.jpg"
+        },
+        {
+          "title": "Book Title 2",
+          "author": "Author 2",
+          "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+          "reviews": "4.0",
+          "coverImage": "https://rukminim2.flixcart.com/image/850/1000/xif0q/book/r/o/z/supercop-ajit-doval-original-imagqfhgumgcayyn.jpeg?q=20&crop=false"
+        },
+        {
+            "title": "Nehru The Invention Of India",
+            "author": "Author 2",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+            "reviews": "4.8",
+            "coverImage": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1171601696i/109234.jpg"
+          },
+          {
+            "title": "Book Title 2",
+            "author": "Author 2",
+            "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+            "reviews": "3.6",
+            "coverImage": "https://d1whtlypfis84e.cloudfront.net/guides/wp-content/uploads/2018/05/21035708/51QSrQDru9L._SX342_BO1204203200_-207x300.jpg"
+          },
+          {
+            "title": "DoglaPan",
+            "author": "Ashneer Grover",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+            "reviews": "4.7",
+            "coverImage": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1670718519i/65146478.jpg"
+          }
+         
+      ]
+      
+}
