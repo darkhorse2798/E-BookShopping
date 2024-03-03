@@ -3,9 +3,9 @@
   border-radius: 10px;
   overflow: hidden;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  transition: transform 0.3s ease-in, box-shadow 0.3s ease-in;
   margin: 10px;
-  width: 200px; 
+  width: 300px; 
 }
 
 .custom-card:hover {
@@ -14,10 +14,11 @@
 }
 
 .custom-card img {
-  max-height: 150px; 
+  max-height: 275px; 
   width: 100%;
   object-fit: cover;
   border-top-right-radius: 10px;
+  border-top-left-radius: 10px;
   transition: transform 0.3s ease;
 }
 
@@ -50,17 +51,13 @@
   width: 100%;
 }
 
-.row {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-}
 
 .footer {
-  margin-top: 20px; 
-  position: fixed;
-  bottom: 0;
-  width: 100%;
-  background-color: #f47272;
-  text-align: center;
+  margin: auto;
+  margin-top: 38px;
+}
+.content {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
 }

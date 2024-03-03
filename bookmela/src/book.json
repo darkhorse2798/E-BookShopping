@@ -1,69 +1,126 @@
 {
-    "allBooks": [
-        {
-          "title": "DoglaPan",
-          "author": "Ashneer Grover",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-          "reviews": "4.7",
-          "coverImage": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1670718519i/65146478.jpg"
-        },
-        {
-          "title": "Playing At My Way",
-          "author": "Sachin Temdulkar",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-          "reviews": "4.5",
-          "coverImage": "https://rukminim2.flixcart.com/image/300/400/book/7/6/2/playing-it-my-way-original-imae5zynqejwubss.jpeg?q=90&crop=false"
-        },
-        {
-          "title": "DarkHorse",
-          "author": "Nilopatal Kumar",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
-          "reviews": "4.9",
-          "coverImage": "https://m.media-amazon.com/images/I/41B+bU2wILL.jpg"
-        },
-        {
-          "title": "Book Title 2",
-          "author": "Author 2",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-          "reviews": "3.9",
-          "coverImage": "https://5.imimg.com/data5/SELLER/Default/2021/11/KU/MB/DJ/49559104/b2-500x500.jpeg"
-        },
-        {
-          "title": "Book Title 2",
-          "author": "Author 2",
-          "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-          "reviews": "3.9",
-          "coverImage": "https://d1whtlypfis84e.cloudfront.net/guides/wp-content/uploads/2018/05/21035708/51QSrQDru9L._SX342_BO1204203200_-207x300.jpg"
-        },
-        {
-          "title": "Book Title 2",
-          "author": "Author 2",
-          "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
-          "reviews": "4.0",
-          "coverImage": "https://rukminim2.flixcart.com/image/850/1000/xif0q/book/r/o/z/supercop-ajit-doval-original-imagqfhgumgcayyn.jpeg?q=20&crop=false"
-        },
-        {
-            "title": "Nehru The Invention Of India",
-            "author": "Author 2",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-            "reviews": "4.8",
-            "coverImage": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1171601696i/109234.jpg"
-          },
-          {
-            "title": "Book Title 2",
-            "author": "Author 2",
-            "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-            "reviews": "3.6",
-            "coverImage": "https://d1whtlypfis84e.cloudfront.net/guides/wp-content/uploads/2018/05/21035708/51QSrQDru9L._SX342_BO1204203200_-207x300.jpg"
-          },
-          {
-            "title": "DoglaPan",
-            "author": "Ashneer Grover",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-            "reviews": "4.7",
-            "coverImage": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1670718519i/65146478.jpg"
-          }
-         
-      ]
-      
+  "allBooks": [
+    {
+      "id": "1",
+      "title": "I AM MALALA",
+      "author": "MALALA YOUSAFAZAI",
+      "description":"I Am Malala: The Story of the Girl Who Stood Up for Education and was Shot by the Taliban is an autobiographical book by Malala Yousafzai, co-written with Christina Lamb. It was published on 8 October 2013, by Weidenfeld & Nicolson in the UK and Little, Brown and Company in the US. The book details the early life of Yousafzai, her father's ownership of schools and activism, the rise and fall of the Tehrik-i-Taliban Pakistan in Swat Valley and the assassination attempt made against Yousafzai on 9 October 2012,[1] when she was aged 15, following her activism for female education.[2] It received a positive critical reception and won several awards, though it has been banned in many schools in Pakistan.",
+      "reviews": "4.7",
+      "price": "10",
+      "genre": "Fiction",
+      "coverImage": "https://m.media-amazon.com/images/I/91LlwvTTJSL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "id": "2",
+      "title": "Playing At My Way",
+      "author": "Sachin Temdulkar",
+      "description": "Playing It My Way is the autobiography of former Indian cricketer Sachin Tendulkar. It was launched on 5 November 2014 in Mumbai.[3][4][5] The book summarises Tendulkar's early days, his 24 years of international career and aspects of his life that have not been shared publicly.[6] It entered the Limca Book of Records for being the best selling adult hardback across both fiction and non-fiction categories. In India, it broke the record set by Walter Isaacson's biography of Steve Jobs for being the most pre-ordered biographical book.[7]",
+      "reviews": "4.5",
+      "price": "15",
+      "genre": "Fiction",
+      "coverImage": "https://rukminim2.flixcart.com/image/300/400/book/7/6/2/playing-it-my-way-original-imae5zynqejwubss.jpeg?q=90&crop=false"
+    },
+
+    {
+      "id": "3",
+      "title": "The Guide",
+      "author": "Nilesh Sharma",
+      "description": "LThe Guide is a 1958 novel written in English by the Indian author R. K. Narayan. Like most of his works, the events of this novel take place in Malgudi, a fictional town in South India. The novel describes the transformation of the protagonist, Raju, from a tour guide to a spiritual guide and then one of the greatest holy men of India.This novel earned Narayan the first 1960 Sahitya Akademi Award for English, by the Sahitya Akademi, India's National Academy of Letters.[1] In 2022, it was included on the Big Jubilee Read list of 70 books by Commonwealth authors selected to celebrate the Platinum Jubilee of Elizabeth II.[2]",
+      "reviews": "3.9",
+      "genre": "Fiction",
+      "price": "25",
+      "coverImage": "https://upload.wikimedia.org/wikipedia/en/a/a4/TheGuide.jpg"
+    },
+    {
+      "id": "4",
+      "title": "Wings Of Fire",
+      "author": "APJ ABDUL KALAM",
+      "description": "Wings of Fire (1999), is the autobiography of the Missile Man of India and the former President of India, Dr. A. P. J. Abdul Kalam. It was written by him and Arun Tiwari.[1]  In the autobiography, Kalam examines his early life, effort, hardship, fortitude, luck and chance that eventually led him to lead Indian space research, nuclear and missile programs. Kalam started his career, after graduating from Aerospace engineering at Madras Institute of Technology, at Hindustan Aeronautics Limited and was assigned to build a hovercraft prototype. Later he moved to ISRO and helped establish the Vikram Sarabhai Space Centre and pioneered the first space launch-vehicle program. During the 1990s and early 2000, Kalam moved to the DRDO to lead the Indian nuclear weapons program, with particular successes in thermonuclear weapons development culminating in the operation Smiling Buddha and an ICBM Agni.",
+      "reviews": "3.9",
+      "genre": "Fantasy",
+      "price": "27",
+      "coverImage": "https://upload.wikimedia.org/wikipedia/en/3/3a/Wings_of_Fire_by_A_P_J_Abdul_Kalam_Book_Cover.jpg"
+    },
+    {
+      "id": "5",
+      "title": "A BIOGRAPHY OF SWAMI VIVEKANANDA",
+      "author": "GAUTAM GHOSH",
+      "description": "Swami Vivekananda (1863–1902)[1] was an Indian Hindu monk and a key figure in the introduction of Indian philosophies of Vedanta and Yoga to the western world.[2] He was one of the most influential philosophers and social reformers in his contemporary India and the most successful and influential missionaries of Vedanta to the Western world.[3][4] Indian Nobel laureate poet Rabindranath Tagore's suggested to study the works of Vivekananda to understand India. He also told, in Vivekananda there was nothing negative, but everything positive.[5]",
+      "reviews": "4.0",
+      "genre": "Fantasy",
+      "price": "50",
+      "coverImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Swami_Vivekananda-1893-09-signed.jpg/800px-Swami_Vivekananda-1893-09-signed.jpg"
+    },
+
+    {
+      "id": "6",
+      "title": "HEARTH Of The SEA",
+      "author": "Nathanial Philbrick",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "reviews": "3.9",
+      "genre": "Fantasy",
+      "price": "27",
+      "coverImage": "https://images3.penguinrandomhouse.com/cover/9780141001821"
+    },
+    {
+      "id": "7",
+      "title": "LONG WALK TO FREEDOM",
+      "author": "NELSON MANDELA",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "reviews": "4.7",
+      "genre": "Non-Fiction",
+      "price": "10",
+      "coverImage": "https://i.pinimg.com/736x/57/18/36/57183654b152a9e68e5dbe2d6879f65e.jpg"
+    },
+    {
+      "id": "8",
+      "title": "I CAME AS A SHADOW",
+      "author": "JOHN THOMPSON",
+      "description": "John Robert Thompson Jr. (September 2, 1941 – August 30, 2020) was an American college basketball coach for the Georgetown Hoyas men's team. He became the first African-American head coach to win a major collegiate championship in basketball when he led the Hoyas to the NCAA Division I national championship in 1984. Thompson was inducted into the Naismith Memorial Basketball Hall of Fame and National Collegiate Basketball Hall of Fame. Thompson played college basketball for the Providence Friars and earned honorable mention All-American honors in 1964. He played for two seasons in the National Basketball Association (NBA) for the Boston Celtics, who won an NBA championship in both seasons. Thompson became a high school coach in Washington, D.C., before coaching Georgetown for 27 seasons. He worked as a radio and television sports commentator after his retirement from coaching. Thompson earned his master's degree in Counseling and Guidance at the University of the District of Columbia (UDC). He also served as an employee at the center for 4-H and Youth Development at UDC.[1]",
+      "reviews": "4.7",
+      "price": "10",
+      "genre": "Non-Fiction",
+      "coverImage": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Ronald_Reagan_with_John_Thompson%2C_Patrick_Ewing_%28cropped%29.jpg"
+    },
+    {
+      "id": "9",
+      "title": "NIGHT CIRCUS",
+      "author": "ERIN MORGANSTREN",
+      "description": "Shadow of Night is a 2012 historical-fantasy novel by American scholar Deborah Harkness, the second book in the All Souls trilogy. As the sequel to the 2011 bestseller, A Discovery of Witches, it follows the story of Diana Bishop, a historian who comes from a long line of witches, and Matthew Clairmont, a long-lived vampire, as they unlock the secrets of an ancient manuscript. Diana and Matthew travel back in time to 16th century London during the Elizabethan eraThe book received generally mixed feedback from literary critics. Like its predecessor, A Discovery of Witches, it was praised for its blend of history and fantasy. Some critics felt that the book had too many secondary characters and plot elements. Harkness had previously studied England's Tudor period, in 2007 publishing a non-fiction book about the scientific revolution in Elizabethan London, The Jewel House.",
+      "reviews": "4.5",
+      "price": "15",
+      "genre": "Non-Fiction",
+      "coverImage": "https://upload.wikimedia.org/wikipedia/en/2/29/Shadow_of_Night_2012_Novel.jpg"
+    },
+    {
+      "id": "10",
+      "title": "THE VENOM",
+      "author": "MARK FOLLY",
+      "description": "Venom is the title of several American comic book series published by Marvel Comics focusing on the various heroic and villainous incarnations of the character Venom, which have usually consisted of a human host and amorphous alien being called a symbiote. The first incarnation of the character was the one created by the third and current human host to the symbiote (the first two being Spider-Man and Tel-Kar), Eddie Brock, and—since 2011—its fifth host, Flash Thompson. Beginning with Venom: Lethal Protector, eighteen limited series following Brock's adventures were published monthly between February 1993 and January 1998. A monthly Venom series began publication in 2003, following a new character, Patricia Robertson, and a clone of the original symbiote. The series concluded in 2004 after 18 issues. In 2011 another monthly series, following the adventures of Flash Thompson, was launched. The series resumed with vol. 3, vol. 4, and vol. 5 from 2016 to present.",
+      "reviews": "4.7",
+      "genre": "Sci-Fi",
+      "price": "10",
+      "coverImage": "https://upload.wikimedia.org/wikipedia/en/8/86/Venom_Lethal_Protector_no_1.jpg"
+    },
+    {
+      "id": "11",
+      "title": "MANADA MATHU",
+      "author": "SUDHA MURTHY",
+      "description":"Manada Mathu is a Kannada novel written by Sudha Murthy, an Indianauthor, philanthropist, and former Infosys Foundation chairperson. The title Manada Mathu translates to A Fistful of Mustard Seeds in English.The novel revolves around the life of an ambitious girl named Kamalamma, who is determined to break the shackles of societal norms and traditions to pursue her dreams. Set in rural Karnataka, the story portrays Kamalamma's journey as she strives to overcome various challenges and obstacles in her path, including poverty, gender discrimination, and the conservative mindset of her community. Through Kamalamma's character, Sudha Murthy explores themes such as womenempowerment, education, social reform, and the importance of determination and perseverance in achieving one's goals. The novel provides insights into the socio-cultural milieu of rural India while highlighting the resilience and strength of its female protagonists. Manada Mathu is celebrated for its simple yet profound narrative style, compelling characters, and thought-provoking themes, making it a popular and widely acclaimed work of Kannada literature. Sudha Murthy's storytelling prowess and her ability to depict the nuances of human relationships and societal dynamics have earned her widespread recognition as one of India's most beloved authors.",
+      "reviews": "4.7",
+      "price": "10",
+      "genre": "Sci-Fi",
+      "coverImage": "https://booksbhandara.com/wp-content/uploads/2021/08/Manada-Maatu-by-Sudhamurthy-31-300x463.jpg"
+    },
+    {
+      "id": "12",
+      "title": "KGF-2",
+      "author": "SOURCE",
+      "description": "KGF: Chapter 2 is a 2022 Indian Kannada-language period action film[19] written and directed by Prashanth Neel, and produced by Vijay Kiragandur under the banner Hombale Films. The second installment in a three-part series, it serves as a sequel to the 2018 film KGF: Chapter 1. The film stars an ensemble cast of Yash, Sanjay Dutt, Raveena Tandon, Srinidhi Shetty, Prakash Raj, Achyuth Kumar, Rao Ramesh, Vasishta N. Simha, Ayyappa P. Sharma, Archana Jois, Saran Shakti, Easwari Rao, John Kokken, T.S Nagabharana and Malavika Avinash.",
+      "reviews": "4.5",
+      "price": "15",
+      "genre": "Sci-Fi",
+      "coverImage": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/K.G.F_Chapter_2.jpg/220px-K.G.F_Chapter_2.jpg"
+    }
+  ]
 }
